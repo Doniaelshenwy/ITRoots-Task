@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "D98-9b-jO4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"sunt aut facere repellat provident occaecati excepturi optio reprehenderit\"; ObjectID = \"D98-9b-jO4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+          }
+        }
+      }
+    },
+    "v1L-jw-7xZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"quia et suscipit\\\\nsuscipit recusandae consequuntur expedita et cum\\\\nreprehenderit molestiae ut ut quas totam\\\\nnostrum rerum est autem sunt rem eveniet architecto\"; ObjectID = \"v1L-jw-7xZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "quia et suscipit\\nsuscipit recusandae consequuntur expedita et cum\\nreprehenderit molestiae ut ut quas totam\\nnostrum rerum est autem sunt rem eveniet architecto"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

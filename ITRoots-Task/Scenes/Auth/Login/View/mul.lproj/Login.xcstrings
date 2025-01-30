@@ -1,0 +1,138 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0vy-EG-3FT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Password\"; ObjectID = \"0vy-EG-3FT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "Bq1-mr-arI.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your username\"; ObjectID = \"Bq1-mr-arI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your username"
+          }
+        }
+      }
+    },
+    "DPZ-gv-z8v.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Forgot Password?\"; ObjectID = \"DPZ-gv-z8v\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Forgot Password?"
+          }
+        }
+      }
+    },
+    "HG0-aU-AAM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Don't have an account?\"; ObjectID = \"HG0-aU-AAM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Don't have an account?"
+          }
+        }
+      }
+    },
+    "LDA-NS-Vg5.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your username\"; ObjectID = \"LDA-NS-Vg5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your username"
+          }
+        }
+      }
+    },
+    "mrL-BZ-sLK.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Sign up\"; ObjectID = \"mrL-BZ-sLK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign up"
+          }
+        }
+      }
+    },
+    "o3C-gB-rey.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sign in \"; ObjectID = \"o3C-gB-rey\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign in "
+          }
+        }
+      }
+    },
+    "ptP-qr-7Vp.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your password\"; ObjectID = \"ptP-qr-7Vp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your password"
+          }
+        }
+      }
+    },
+    "s0a-96-bC2.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Login\"; ObjectID = \"s0a-96-bC2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        }
+      }
+    },
+    "yJq-dQ-HJC.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Username\"; ObjectID = \"yJq-dQ-HJC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "zdn-vL-Lhx.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"User Type\"; ObjectID = \"zdn-vL-Lhx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "User Type"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

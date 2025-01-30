@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "6y7-ZY-Gmd"; */
+"6y7-ZY-Gmd.text" = "هل لديك حساب بالفعل؟";
+
+/* Class = "UILabel"; text = "Sign up "; ObjectID = "9fj-ry-LpE"; */
+"9fj-ry-LpE.text" = "انشاء حساب";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "DXW-na-1or"; */
+"DXW-na-1or.normalTitle" = "انشاء حساب";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "Dag-Nz-7R4"; */
+"Dag-Nz-7R4.text" = "الاسم الكامل";
+
+/* Class = "UITextField"; placeholder = "Enter your full name"; ObjectID = "ElW-fD-pp3"; */
+"ElW-fD-pp3.placeholder" = "أدخل اسمك الكامل";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "GIX-xE-Vud"; */
+"GIX-xE-Vud.text" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "PeO-Ib-euT"; */
+"PeO-Ib-euT.placeholder" = "أدخل بريدك الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Enter your phone number"; ObjectID = "QSC-gO-dcQ"; */
+"QSC-gO-dcQ.placeholder" = "أدخل رقم هاتفك";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Ym2-tV-pvt"; */
+"Ym2-tV-pvt.text" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "adz-k5-iDB"; */
+"adz-k5-iDB.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "Enter your username"; ObjectID = "bQJ-R2-00E"; */
+"bQJ-R2-00E.placeholder" = "أدخل اسم المستخدم الخاص بك";
+
+/* Class = "UILabel"; text = "+20"; ObjectID = "fhm-mP-od2"; */
+"fhm-mP-od2.text" = "+20";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "nd8-Cc-nio"; */
+"nd8-Cc-nio.text" = "اسم المستخدم";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "qpi-xy-Pye"; */
+"qpi-xy-Pye.placeholder" = "أدخل كلمة المرور الخاصة بك";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "zTr-wX-WDJ"; */
+"zTr-wX-WDJ.text" = "رقم الهاتف";

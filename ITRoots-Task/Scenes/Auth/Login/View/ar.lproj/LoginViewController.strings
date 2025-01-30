@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "3hs-pX-CdK"; */
+"3hs-pX-CdK.placeholder" = "أدخل كلمة المرور الخاصة بك";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "Ba0-U3-AMG"; */
+"Ba0-U3-AMG.text" = "ليس لديك حساب؟";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "Kcd-9B-bSq"; */
+"Kcd-9B-bSq.normalTitle" = "انشاء حساب";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "LfA-Av-hiX"; */
+"LfA-Av-hiX.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Sign in "; ObjectID = "Tjs-XY-QDJ"; */
+"Tjs-XY-QDJ.text" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WeT-W0-hBK"; */
+"WeT-W0-hBK.text" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "User Type"; ObjectID = "d4r-Vp-och"; */
+"d4r-Vp-och.text" = "نوع المستخدم";
+
+/* Class = "UITextField"; placeholder = "Enter your username"; ObjectID = "dx8-EO-6D3"; */
+"dx8-EO-6D3.placeholder" = "أدخل اسم المستخدم الخاص بك";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "gBY-uk-uX7"; */
+"gBY-uk-uX7.text" = "اسم المستخدم";
+
+/* Class = "UITextField"; placeholder = "Enter your username"; ObjectID = "oDt-9B-z9g"; */
+"oDt-9B-z9g.placeholder" = "أدخل اسم المستخدم الخاص بك";

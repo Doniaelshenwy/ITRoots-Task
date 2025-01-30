@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "cyt-ak-30T.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"BD 200\"; ObjectID = \"cyt-ak-30T\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "BD 200"
+          }
+        }
+      }
+    },
+    "fy1-yF-GEi.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Walk Safety Hat (1X)\"; ObjectID = \"fy1-yF-GEi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Walk Safety Hat (1X)"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

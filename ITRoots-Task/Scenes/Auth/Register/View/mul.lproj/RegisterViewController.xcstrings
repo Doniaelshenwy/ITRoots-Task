@@ -1,0 +1,186 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "6y7-ZY-Gmd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Already have an account?\"; ObjectID = \"6y7-ZY-Gmd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Already have an account?"
+          }
+        }
+      }
+    },
+    "9fj-ry-LpE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sign up \"; ObjectID = \"9fj-ry-LpE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign up "
+          }
+        }
+      }
+    },
+    "adz-k5-iDB.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Sign in\"; ObjectID = \"adz-k5-iDB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign in"
+          }
+        }
+      }
+    },
+    "bQJ-R2-00E.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your username\"; ObjectID = \"bQJ-R2-00E\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your username"
+          }
+        }
+      }
+    },
+    "Dag-Nz-7R4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Full Name\"; ObjectID = \"Dag-Nz-7R4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Full Name"
+          }
+        }
+      }
+    },
+    "DXW-na-1or.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Sign up\"; ObjectID = \"DXW-na-1or\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign up"
+          }
+        }
+      }
+    },
+    "ElW-fD-pp3.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your full name\"; ObjectID = \"ElW-fD-pp3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your full name"
+          }
+        }
+      }
+    },
+    "fhm-mP-od2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+20\"; ObjectID = \"fhm-mP-od2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+20"
+          }
+        }
+      }
+    },
+    "GIX-xE-Vud.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Email\"; ObjectID = \"GIX-xE-Vud\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "nd8-Cc-nio.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Username\"; ObjectID = \"nd8-Cc-nio\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "PeO-Ib-euT.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your email\"; ObjectID = \"PeO-Ib-euT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your email"
+          }
+        }
+      }
+    },
+    "qpi-xy-Pye.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your password\"; ObjectID = \"qpi-xy-Pye\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your password"
+          }
+        }
+      }
+    },
+    "QSC-gO-dcQ.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter your phone number\"; ObjectID = \"QSC-gO-dcQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter your phone number"
+          }
+        }
+      }
+    },
+    "Ym2-tV-pvt.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Password\"; ObjectID = \"Ym2-tV-pvt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "zTr-wX-WDJ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Phone Number\"; ObjectID = \"zTr-wX-WDJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Phone Number"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
